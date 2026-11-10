@@ -251,11 +251,4 @@ Disadvantages
 
 ## AI usage
 
-ChatGPT was used as a learning assistant to:
-
-- Clarify Linux administration concepts.
-- Understand Debian configuration.
-- Review Bash scripting.
-- Verify compliance with the project requirements.
-
-All configuration and implementation were performed manually after understanding the concepts.
+AI tools were used minimally and exclusively for simple, repetitive tasks such as formatting markdown tables and proofreading documentation. All system installation, partitioning, security policies, service configurations, and scripting were performed manually.
